@@ -20,12 +20,12 @@ switch($page){
 		break;
 
 	case "home":
-		$title = "Empire";
+		$title = "Empire Custom Doors";
 		$description = "Projetos modernos e elegantes para o seu espaço";
 		break;
 
 	default:
-		$title = "Empire";
+		$title = "Empire Custom Doors";
 		$description = "Projetos modernos e elegantes para o seu espaço";
 		break;
 }

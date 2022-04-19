@@ -32,7 +32,7 @@ if(pageurl == 'home'){
 
         $("body,html").animate(
         {
-            scrollTop : position                       // Scroll 500px from top of body
-        }, 400);
+            scrollTop : position
+        }, 600);
     })
 }

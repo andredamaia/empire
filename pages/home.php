@@ -12,11 +12,11 @@
 
                     <p>Projetos modernos e elegantes para o seu espaço</p>
 
-                    <a href="#" class="button-white">Orçamento</a>
+                    <a href="mailto:durigon@empireacmdoors.com" id="sobre-nos" class="button-white">Orçamento</a>
                 </div>
   
                 <div class="col-12 col-md-7">
-                    <div class="description-content" id="sobre-nos">
+                    <div class="description-content">
                         <h2>Sobre <span>Nós</span></h2>
 
                         <p>Somos a Empire Custom Doors e não existem limites para os 
@@ -49,7 +49,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="box-jobs">
-                    <div class="box black-box">
+                    <div class="box black-box" id="aspiracoes">
                         <span>Projetos personalizados</span>
 
                         <svg width="117" height="46" viewBox="0 0 117 46" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -90,7 +90,7 @@
 
                 
                 <div class="col-12 col-md-8">
-                    <div class="aspiracoes" id="aspiracoes" name="aspiracoes">
+                    <div class="aspiracoes">
 
                         <h2>Aspir<span>ações</span></h2>
 
