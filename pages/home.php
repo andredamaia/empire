@@ -1,8 +1,8 @@
 <div class="banner">
 
-    <img src="<?php echo $pageurl; ?>/public/images/banner-img-left.png" class="banner-img-left" alt="" />
+    <img src="<?php echo $pageurl; ?>/public/images/banner-left.jpg" class="banner-img-left" alt="" />
 
-    <img src="<?php echo $pageurl; ?>/public/images/banner-img-right.png" class="banner-img-right" alt="" />
+    <img src="<?php echo $pageurl; ?>/public/images/banner-right.jpg" class="banner-img-right" alt="" />
 
     <div class="container">
         <div class="row">
@@ -86,7 +86,7 @@
                     </div>
                 </div>
 
-                <img src="<?php echo $pageurl; ?>/public/images/contato-img.png" class="banner-aspiracoes" alt="" />
+                <img src="<?php echo $pageurl; ?>/public/images/img-contato.jpg" class="banner-aspiracoes" alt="" />
 
                 
                 <div class="col-12 col-md-8">
