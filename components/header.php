@@ -11,10 +11,24 @@
 
             <div class="col-12 col-lg-6 text-right d-none d-md-block">
                 <ul class="menu-list">
-                    <li><a href="<?php echo $pageurl; ?>/#sobre-nos" class="button-scroll" data-scroll="sobre-nos">Sobre nós</a></li>
-                    <li><a href="<?php echo $pageurl; ?>/#aspiracoes" class="button-scroll" data-scroll="aspiracoes">Aspirações</a></li>
-                    <li><a href="<?php echo $pageurl; ?>/#contato" class="button-scroll" data-scroll="contato">Contato</a></li>
-                    <li><a href="tel:+447446707300">44 7446 707300</a></li>
+                    <li><a href="<?php echo $pageurl; ?>/#who-are-we" class="button-scroll" data-scroll="who-are-we">Who are we?</a></li>
+
+                    <li><a href="<?php echo $pageurl; ?>/#acm" class="button-scroll" data-scroll="acm">ACM</a></li>
+
+                    <span>
+                        <li>
+                            Doors
+                            <img src="<?php echo $pageurl; ?>/public/images/arrow-down-menu.png" alt="" />
+                        </li>
+
+                        <ul class="menu-sublink">
+                            <li><a href="<?php echo $pageurl; ?>/xl-door" class="button-scroll">XL Door</a></li>
+                            <li><a href="<?php echo $pageurl; ?>/ultra-door" class="button-scroll">Ultra Door</a></li>
+                        </ul>
+                    </span>
+
+                    <li><a href="<?php echo $pageurl; ?>/contato" class="button-scroll">Contato</a></li>
+                    
                 </ul>
             </div>
 

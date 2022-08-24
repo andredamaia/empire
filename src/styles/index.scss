@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap';
+
 @import './components/preload.scss';
 @import './components/header.scss';
 @import './components/footer.scss';
@@ -11,4 +13,7 @@
 @import './utils/form.scss';
 
 @import './pages/home.scss';
+@import './pages/xl-door.scss';
+@import './pages/contato.scss';
 @import './pages/404.scss';
+

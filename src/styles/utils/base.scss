@@ -64,3 +64,9 @@ a {
 .swal2-popup.swal2-toast .swal2-title {
     font-size: 1.8rem !important;
 }
+
+@media(max-width: 820px) {
+    br {
+        display: none;
+    }
+}
