@@ -57,6 +57,14 @@ header {
             margin: 0 1rem;
         }
 
+        @media(min-width: 769px) and (max-width: 991px) {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            font-size: 1.5rem;
+        }
+
         &:first-child {
             margin-left: 0;
         }
@@ -77,6 +85,10 @@ header {
             }
 
             @media(min-width: 992px) and (max-width: 1200px) {
+                font-size: 1.5rem;
+            }
+
+            @media(min-width: 769px) and (max-width: 991px) {
                 font-size: 1.5rem;
             }
 
@@ -109,6 +121,10 @@ header {
             }
 
             @media(min-width: 992px) and (max-width: 1200px) {
+                font-size: 1.5rem;
+            }
+
+            @media(min-width: 769px) and (max-width: 991px) {
                 font-size: 1.5rem;
             }
         }

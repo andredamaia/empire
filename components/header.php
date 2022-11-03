@@ -1,7 +1,7 @@
 <header class="wow fadeInDown" data-wow-delay=".4s">
     <div class="container">
         <div class="row d-flex align-items-center">
-            <div class="col-6 col-lg-2">
+            <div class="col-4 col-lg-2">
                 <div class="logo">
                     <a href="<?php echo $pageurl; ?>/">
                         <img src="<?php echo $pageurl; ?>/public/images/logo.png" alt="" />
@@ -9,7 +9,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-lg-6 text-right d-none d-md-block">
+            <div class="col-8 col-lg-6 text-left d-none d-md-block">
                 <ul class="menu-list">
                     <li><a href="<?php echo $pageurl; ?>/#who-are-we" class="button-scroll" data-scroll="who-are-we">Who are we?</a></li>
 

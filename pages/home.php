@@ -38,12 +38,12 @@
         </div>
 
         <div class="area-white-content">
-            <div>
+            <div class="text-area-content">
                 <p>Somos a <strong>Empire Custom Doors</strong> e não existem limites para os nossos sonhos.</p>
 
-                <p>Com grande know-how e experiência, <strong>conquistamos clientes ao redor do mundo todo</strong> e<br/> nossas criações estão presentes em <strong>3 continentes.</strong></p>
+                <p>Com grande know-how e experiência, <strong>conquistamos clientes ao redor do mundo todo</strong> e nossas criações estão presentes em <strong>3 continentes.</strong></p>
 
-                <p><strong>Qualidade é o nosso sobrenome:</strong> desde a criação até a aplicação do projeto, <br/> investimos no melhor material e garantimos a maior durabilidade em <strong>todos</strong> os projetos.</p>
+                <p><strong>Qualidade é o nosso sobrenome:</strong> desde a criação até a aplicação do projeto, investimos no melhor material e garantimos a maior durabilidade em <strong>todos</strong> os projetos.</p>
             </div>
 
             <div class="box-jobs" >
